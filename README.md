@@ -25,6 +25,8 @@ python main.py --video_root_dir sample_dataset
 
 ### first frame ocr results
 ![image](https://user-images.githubusercontent.com/55695350/207606471-731fe32d-7039-4b19-8a1b-f7a985660f38.png)
+![image](https://user-images.githubusercontent.com/55695350/207610899-1edbe5ad-28ea-4534-a3d1-c1cd0f1398fd.png)
+
 
 ### fallen person detection, classification and indicating where the perfon falls.
 ![image](https://user-images.githubusercontent.com/55695350/207606510-092fbc36-e9c0-44b7-b39a-5652ef92052c.png)
