@@ -1,0 +1,8 @@
+train: /home/jinyong/VFP290K-yolov7/train/images
+val: /home/jinyong/VFP290K-yolov7/test/images
+test: /home/jinyong/VFP290K-yolov7/test/images
+#Classes
+nc: 2 # replace according to your number of classes
+#classes names
+#replace all class names list with your classes names
+names: ['0', '1'] 
