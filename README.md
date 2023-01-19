@@ -4,15 +4,15 @@ You can download the pre-trained weight files in this [link](https://drive.googl
 
 ### environments
 ```
-torch==1.8.1<br/>
-opencv<br/>
-albumentations<br/>
-timm<br/>
-python-bidi<br/>
-soynlp<br/>
-pandas<br/>
-matplotlib<br/>
-seaborn<br/>
+torch==1.8.1
+opencv
+albumentations
+timm
+python-bidi
+soynlp
+pandas
+matplotlib
+seaborn
 ```
 
 ### inference code
