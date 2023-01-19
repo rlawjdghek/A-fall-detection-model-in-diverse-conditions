@@ -3,6 +3,7 @@
 You can download the pre-trained weight files in this [link](https://drive.google.com/drive/folders/10pJw5Bx80zDLEdsDjav5P6bCAUr2kCKk?usp=sharing), and put it in the AGC_final directory. 
 
 ### environments
+```
 torch==1.8.1<br/>
 opencv<br/>
 albumentations<br/>
@@ -12,6 +13,7 @@ soynlp<br/>
 pandas<br/>
 matplotlib<br/>
 seaborn<br/>
+```
 
 ### inference code
 1. download the pre-trained .pth weight files in the save_models. There are many pre-trained models for running the code.
