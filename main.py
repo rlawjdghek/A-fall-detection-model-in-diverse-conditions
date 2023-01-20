@@ -10,7 +10,7 @@ sys.path.append("./mission1/human_detect")
 sys.path.append("./mission1/person_classification")
 sys.path.append("./OCR")
 sys.path.append("./mission3")
-## ver1asdasd123123asdasdasdasdasdasddfgdfgdfgxcvxcvxvccxv
+## ver1asdasd123123asdasdasdasdasdasddfgdfgdfgxcvxcvxvccxvzzzz
 import os
 from os.path import join as opj
 from glob import glob
